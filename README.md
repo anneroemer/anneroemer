@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 👋
 
 I am a junior frontend developer with a passion for design and ✨aesthetics✨. 
 
