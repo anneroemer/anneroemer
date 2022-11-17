@@ -1,10 +1,8 @@
 ### Hello world! 👋
 
-I am a junior frontend developer with a passion for design and ✨aesthetics✨. 
+I am a frontend developer at Septima with a passion for design and ✨aesthetics✨. 
 
 Originally I am from a small town in nothern Jutland - currently I am living in Østerbro, Copenhagen. 
-
-Right now I am interning at Septima - getting to do what I love. 
 
 Feel free to connect with me on LinkedIn:
 https://www.linkedin.com/in/anne-r%C3%B8mer-4606b2170/
