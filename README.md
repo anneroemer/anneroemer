@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-I am a brand new frontend developer at Septima.
+I am a junior frontend developer at Septima.
 
 Originally I am from a small town in nothern Jutland - currently I am living in Nørrebro, Copenhagen. 
  
