@@ -1,4 +1,4 @@
-### Hello world! 👋
+### 
 
 Frontend developer at Septima.
 
