@@ -1,8 +1,8 @@
 ### Hello world! 👋
 
-I am a junior frontend developer at Septima.
+Frontend developer at Septima.
 
-Originally I am from a small town in nothern Jutland - currently I am living in Nørrebro, Copenhagen. 
+Originally from a small town in nothern Jutland - currently living in Nørrebro, Copenhagen. 
  
 Feel free to connect with me on LinkedIn:
 https://www.linkedin.com/in/anne-r%C3%B8mer-4606b2170/
